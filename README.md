@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasbir Singh</h1>
-<h3 align="center">Technical Architect | Java • Spring Boot • AWS • Microservices</h3>
+<h3 align="center">Java • Spring Boot • AWS • Microservices</h3>
 
 ---
 
